@@ -7,3 +7,4 @@ The receiver used has 6 channels and utilizes the digital pins 8-12.
 The 4 ESC (Electronic Speed Controllers) utilize the digital pins 4-7
 
 The wire.h library was used for I2C communications with gyroscope. The Gryoscope used is MPU6050.
+The gyro.ino program is used to test the MPU-6050 gyroscope.
